@@ -88,7 +88,3 @@ Full-stack AI-powered sales & marketing platform with automated agents and lead 
 Developed with ❤️ by a Gold Medalist Computer Science Graduate.
 
 Focused on building practical, reasoning-driven AI systems that move beyond hype into real-world utility.
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D007BFF%26height%3D20%26section%3Dfooter" width="100%" />
-</div>
