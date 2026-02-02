@@ -83,22 +83,12 @@ Full-stack AI-powered sales & marketing platform with automated agents and lead 
 
 ---
 
-## 📊 GitHub Analytics
+🏆 About the Author
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranamudassirali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranamudassirali&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Developed with ❤️ by a Gold Medalist Computer Science Graduate.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranamudassirali&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ranamudassirali/ranamudassirali/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+Focused on building practical, reasoning-driven AI systems that move beyond hype into real-world utility.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007BFF&height=20&section=footer" width="100%" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D007BFF%26height%3D20%26section%3Dfooter" width="100%" />
 </div>
