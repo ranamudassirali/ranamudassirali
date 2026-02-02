@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=300&section=header&text=Rana%20Mudassir%20Ali&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=ML+/+AI+Engineer;Agentic+Systems+Specialist;Full-Stack+AI+SaaS+Developer;4.0+CGPA+Gold+Medalist" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me Email: ranamudassiral9@gmail.com
+## 🚀 About Me                                                                                                                       Email: ranamudassiral9@gmail.com
 
 I am a **BS Computer Science graduate** with a perfect **4.0/4.0 CGPA** and **Patron’s Gold Medal**. My passion lies at the intersection of Artificial Intelligence, Machine Learning, and Agentic Systems. I specialize in building autonomous, production-ready solutions — from AI News Agents and RAG-based assistants to AI SaaS platforms.
 
